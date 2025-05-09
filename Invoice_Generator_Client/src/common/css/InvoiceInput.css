@@ -1,0 +1,26 @@
+.invoice-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .invoice-form {
+    width: 60%;
+    /* max-width: 60%; */
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+  
+  /* Responsive rule for smaller screens */
+  @media (max-width: 600px) {
+    .invoice-form {
+      max-width: 100%;
+      padding: 1.5rem;
+    }
+  }
