@@ -19,7 +19,7 @@ const InvoiceInput = () => {
         e.preventDefault();
       
         try {
-          const response = await fetch('http://127.0.0.1:8000/api/invoicegenerator/', {
+          const response = await fetch('/api/invoicegenerator/', {
             method: 'POST',
             headers: { // <-- ensure server knows PDF expected
         'Content-Type': 'application/json'
