@@ -1,0 +1,26 @@
+{
+  "data": [
+    [
+      "Sr.No.",
+      "Product Description",
+      "HSE/SAC Code",
+      "Item Code",
+      "Qty &Unit",
+      "Rate",
+      "Total Sale",
+      "Disc.",
+      "Taxable Value"
+    ]
+  ],
+  "formatting":
+  {
+    "general_style":
+    {
+      "row_width":150,
+      "total_width" : 580,
+      "text_offset" : 5,
+      "border" : 1
+
+    }
+  }
+}

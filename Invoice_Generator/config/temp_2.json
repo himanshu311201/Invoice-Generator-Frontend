@@ -1,0 +1,110 @@
+{
+  "data": [
+    ["TAX SUMMARY","","","","","",""],
+    ["Sr. No.",	"Taxable Value",	"CGST",	"SGST",	"IGST",	"Total Tax","Total Amount"],
+    ["Total: 140,0000/-<br/>(One Lakh Forty Thousand Rupees)","","","","","",""],
+    ["Notes:<br/>Please Pay by Account payee Demand Draft Payable only in favour of HI-Tech systems and solution.<br/> In case Tax Deducted at source PAN NO. AJPPM3639P to be mentioned in the TDS Certificate.<br/>Interest @ 20 % per annum will be charged on all bills if not paid by due date.Material Received in good condition.<br/> No acklowledgement of payment is valid unless granted on the company's official stamp E & O E","","","","","",""]
+
+    ],
+    "column_width": [
+    42,89.6,89.6,89.6,89.6,89.6,89.6
+  ],
+   "formatting": {
+     "cell_mergers": {
+       "0": [
+         [
+           0,
+           -1
+         ]
+       ],
+       "-2": [
+         [
+           0,
+           -1
+         ]
+       ],
+     "-1": [
+       [
+         0,
+         -1
+       ]
+     ]
+   },
+    "general_style":
+    {
+      "border" : 1
+
+    },
+    "text_formatting": [
+            {
+                "number": 0,
+                "column": [
+                    0,
+                    1
+                ],
+                "fontColor": "#000000",
+                "fontType": "Helvetica",
+                "bold": "0",
+                "italic": "0",
+                "underline": "0",
+                "fontSize": "8.5",
+                "hAlign": "CENTER"
+            },
+            {
+                "number": -2,
+                "column": [
+                    0,
+                    1
+                ],
+                "fontColor": "#000000",
+                "fontType": "Helvetica",
+                "bold": "1",
+                "italic": "0",
+                "underline": "0",
+                "fontSize": "8.5",
+                "hAlign": "CENTER"
+            }
+    ],
+            "border": [
+              {
+                "point_start": [
+                  0,
+                  1
+                ],
+                "point_end": [
+                  -1,
+                  1
+                ],
+                "color": "#000000",
+                "type": "BELOW",
+                "width": 0.5
+              },
+              {
+                "point_start": [
+                  0,
+                  -1
+                ],
+                "point_end": [
+                  -1,
+                  -1
+                ],
+                "color": "#000000",
+                "type": "ABOVE",
+                "width": 0.5
+              },
+              {
+                "point_start": [
+                  0,
+                  -2
+                ],
+                "point_end": [
+                  -1,
+                  -2
+                ],
+                "color": "#000000",
+                "type": "ABOVE",
+                "width": 0.5
+              }
+            ]
+  }
+}

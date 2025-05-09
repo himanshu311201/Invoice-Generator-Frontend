@@ -1,0 +1,31 @@
+{
+  "data": [
+    [
+      "Bank Details:",
+      "For Hitech-Systems and Solutions"
+    ],
+    [
+      "Name of the Bank:HDFC Bank Ltd.",
+      ""
+    ],
+    [
+      "Account No.50200060629546",
+      ""
+    ],
+    [
+      "IFSC Code HDFC0004024",
+      ""
+    ]
+  ],
+  "column_width": [
+    290,290
+  ],
+     "formatting":
+  {
+    "general_style":
+    {
+      "border" : 1
+
+    }
+  }
+}
